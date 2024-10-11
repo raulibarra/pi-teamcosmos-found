@@ -1,0 +1,247 @@
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioNiagara\Definitions.FMODStudioNiagara.h
+E:/UnrealProjects/pi-teamcosmos-found/Plugins/FMODStudioNiagara/Source/FMODStudioNiagara/Private/FMODNiagaraEventPlayer.cpp
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudioNiagara\Source\FMODStudioNiagara\Public\FMODNiagaraEventPlayer.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEvent.generated.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundModulationDestination.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundModulationDestination.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundWaveLoadingBehavior.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundConcurrency.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundGenerator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\ReverbSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\IAudioEndpoint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SampleBufferIO.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound\SoundEffectSubmix.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSubmix.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSubmix.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioBus.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAudioComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraCommon.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedStruct.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraCommon.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShared.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCompileHash.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\NiagaraCore\NiagaraCompileHash.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraDataInterfaceBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraMergeable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\NiagaraCore\NiagaraMergeable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\NiagaraCore\NiagaraDataInterfaceBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\NiagaraShader\NiagaraShared.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\VectorVM\Public\VectorVM.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraDataInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraDataSet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSetAccessor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraPerfBaseline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStatsManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraPerfBaseline.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraDebuggerCommon.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraDebuggerCommon.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/PimplPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraEmitterHandle.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScript.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraScriptBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\NiagaraShader\NiagaraScriptBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShaderType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphBlackboard.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameters.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraParameters.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraScriptExecutionParameterStore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameterStore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraParameterStore.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraScriptExecutionParameterStore.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptHighlight.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraScriptHighlight.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraParameterDefinitionsSubscriber.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameterDefinitionsDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraParameterDefinitionsSubscriber.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraScript.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraMessageDataBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraMessageDataBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\INiagaraMergeManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEffectType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\InGamePerformanceTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraPlatformSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraPlatformSet.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraEffectType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraBoundsCalculator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraRendererProperties.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraGPUSortInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GPUSortManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraGPUSortInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraRendererProperties.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraParameterDefinitionsBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraParameterDefinitionsBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraEmitter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptExecutionContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraBakerSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraBakerSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraParameterCollection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraParameterCollection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraUserRedirectionParameterStore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraUserRedirectionParameterStore.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraSystem.generated.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudioNiagara\Source\FMODStudioNiagara\Public\FMODStudioNiagara.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioNiagara\FMODNiagaraEventPlayer.generated.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBlueprintStatics.generated.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSystemInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraDataInterfaceBindingInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraWorldManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSystemSimulation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceSkeletalMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceMeshCommon.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraDataInterfaceMeshCommon.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshRenderData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshDuplicatedVerticesBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexClothBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/MorphTargetVertexInfoBuffers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraDataInterfaceSkeletalMesh.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponentPool.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraComponentPool.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraScalabilityManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraScalabilityManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Inc\Niagara\NiagaraWorldManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+E:/UnrealProjects/pi-teamcosmos-found/Plugins/FMODStudioNiagara/Source/FMODStudioNiagara/Private/FMODStudioNiagara.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

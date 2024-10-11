@@ -1,0 +1,10 @@
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODBankUpdateNotifier.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
