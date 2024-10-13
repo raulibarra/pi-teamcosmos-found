@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e55b91e7-d11c-477c-a4eb-9279db681ec8}">
+		<property name="assetPath">
+			<value>Music/Win/Found_Win_Screen_Intro.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{013a47de-590a-4d65-ba71-a363a8e58c87}</destination>
+		</relationship>
+	</object>
+</objects>

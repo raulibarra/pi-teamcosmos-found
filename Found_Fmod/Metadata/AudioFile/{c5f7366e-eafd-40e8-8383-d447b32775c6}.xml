@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c5f7366e-eafd-40e8-8383-d447b32775c6}">
+		<property name="assetPath">
+			<value>Music/MajinIceGod(ChordProgress).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>138.28800000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{013a47de-590a-4d65-ba71-a363a8e58c87}</destination>
+		</relationship>
+	</object>
+</objects>
