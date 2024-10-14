@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{32ce0871-8afe-49e1-b8fb-1a81ea06ca08}">
+		<property name="assetPath">
+			<value>Music/Game/MajinIceGod-DynamicMusic(Attention_Full).ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>138.28800000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{013a47de-590a-4d65-ba71-a363a8e58c87}</destination>
+		</relationship>
+	</object>
+</objects>

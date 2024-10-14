@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{c5f7366e-eafd-40e8-8383-d447b32775c6}">
+	<object class="AudioFile" id="{378c01aa-7c34-4747-a398-d4f8096708f7}">
 		<property name="assetPath">
-			<value>Music/MajinIceGod(ChordProgress).mp3</value>
+			<value>Music/Game/MajinIceGod-DynamicMusic(Attention_Depleting).ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>138.28800000000001</value>
+			<value>172.84800000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{013a47de-590a-4d65-ba71-a363a8e58c87}</destination>
