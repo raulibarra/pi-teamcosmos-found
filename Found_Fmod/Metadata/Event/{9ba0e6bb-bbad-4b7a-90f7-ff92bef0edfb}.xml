@@ -413,7 +413,7 @@
 			<value>18</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -439,7 +439,7 @@
 			<value>8</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -465,7 +465,7 @@
 			<value>8</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -492,7 +492,7 @@
 			<value>8</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -519,7 +519,7 @@
 			<value>12.607404015869918</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -545,7 +545,7 @@
 			<value>12.607404015869918</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -571,7 +571,7 @@
 			<value>12</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
@@ -597,7 +597,7 @@
 			<value>12</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c5e72539-7f12-4abf-9c97-39e36e48871f}</destination>
