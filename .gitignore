@@ -75,3 +75,4 @@ DerivedDataCache/*
 .vscode/*
 Found_Fmod/.cache/
 Builds/*
+Plugins/FMODStudio/Intermediate/*
