@@ -76,3 +76,4 @@ DerivedDataCache/*
 Found_Fmod/.cache/
 Builds/*
 Plugins/FMODStudio/Intermediate/*
+Plugins/FMODStudioNiagara/Intermediate/*
