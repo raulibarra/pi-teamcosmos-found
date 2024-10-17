@@ -1,8 +1,0 @@
-E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
-E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
-E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBus.generated.h
-E:\UnrealProjects\pi-teamcosmos-found\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h

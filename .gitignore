@@ -75,3 +75,16 @@ DerivedDataCache/*
 .vscode/*
 Found_Fmod/.cache/
 Builds/*
+
+#FMOD Generated Files
+Plugins/FMODStudio/Docs/*
+Plugins/FMODStudio/Intermediate/*
+Plugins/FMODStudio/Resources/*
+Plugins/FMODStudioNiagara/Intermediate/*
+#Add back binary files
+!Plugins/FMODStudio/Binaries/*/*.dll
+!Plugins/FMODStudio/Binaries/*/*.pdb
+!Plugins/FMODStudio/Binaries/*/*.lib
+!Plugins/FMODStudio/Binaries/*/*/*.so
+!Plugins/FMODStudioNiagara/Binaries/*/*.dll
+!Plugins/FMODStudioNiagara/Binaries/*/*.pdb
