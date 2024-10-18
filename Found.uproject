@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2bf0d6a014adb7c2cf60d805ce82714f35ebc4258766482d3b5c94cbd3425915
-size 391
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Found",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FMODStudioNiagara",
+			"Enabled": true
+		}
+	]
+}
